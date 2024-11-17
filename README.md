@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rozannouval&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+!["Don't chase money; if we have value within ourselves, money will chase us."](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rozannouval&limit=5&theme=radical&combine_all_yearly_contributions=true)
