@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me 💫
 🔭 I'm Web Developer<br>👯 I’m Specialist JavaScript<br>🤝 I’m Frontend Developer<br>🌱 I’m Currently Learning<br>💬 Ask me about<br>⚡ Coding is Fun 😆
 
 
