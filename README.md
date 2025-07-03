@@ -10,7 +10,7 @@
 I don’t talk much.  
 But the code speaks.
 
-- Fullstack Web Developer — Next.js 15, Tailwind CSS 4
+- Fullstack Web Developer — Next.js, Express.js, React.js, Postgresql
 - Architect of clean, scalable frontend and backend systems
 - I don't chase trends. I chase performance, clarity, and purpose.
 - Less meetings, more building.
