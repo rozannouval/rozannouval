@@ -1,53 +1,143 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Halo,+Saya+Rozan!;Founder+Coding+With+Rozan+(CWR);Google+Student+Ambassador+2026+Candidate;Tech+Enthusiast+%26+Strategist" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
-  </a>
-</div>
+
+```
+██████╗  ██████╗ ███████╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗╚══███╔╝██╔══██╗████╗  ██║
+██████╔╝██║   ██║  ███╔╝ ███████║██╔██╗ ██║
+██╔══██╗██║   ██║ ███╔╝  ██╔══██║██║╚██╗██║
+██║  ██║╚██████╔╝███████╗██║  ██║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+things+that+matter.;JavaScript+%7C+TypeScript+%7C+Node.js;React+%2F+Next.js+Craftsman;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 <br/>
 
-### 👨‍💻 Tentang Saya
+![Profile Views](https://komarev.com/ghpvc/?username=rozannouval&color=00ff41&style=flat-square&label=VISITORS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/rozannouval?color=00ff41&logo=github&style=flat-square)](https://github.com/rozannouval)
 
-Saya adalah mahasiswa di **STMIK Mardira Indonesia** yang memiliki gairah besar terhadap pengembangan teknologi dan kolaborasi komunitas. Sebagai *Founder* dari **CWR (Coding With Rozan)**, saya mendedikasikan waktu untuk mengajar, membangun ruang diskusi teknologi, sekaligus mengasah keterampilan komunikasi publik untuk mengubah ide-ide teknis menjadi solusi yang mudah dipahami.
-
-Bagi saya, pemrograman sangat mirip dengan bermain catur: ini tentang menganalisis masalah, beradaptasi dengan sistem (atau reaksi lawan), dan mengeksekusi langkah-langkah strategis yang terstruktur. 
-
-* 🔭 **Saat ini sedang fokus pada:** Mengembangkan komunitas CWR dan mempersiapkan diri untuk program **Google Student Ambassador 2026**.
-* 🌱 **Sedang mendalami:** Praktik terbaik dalam arsitektur perangkat lunak dan implementasi AI.
-* 💬 **Tanyakan saya tentang:** Pemrograman, strategi pengembangan komunitas, atau mari bermain catur!
-* 📫 **Hubungi saya:** [Tautkan Email/LinkedIn Anda di sini]
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+```bash
+$ whoami
+> rozan_nouval
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,linux&perline=11" alt="Skills" />
-  </a>
-</p>
+$ cat profile.json
+```
+
+```json
+{
+  "name"       : "Rozan Nouval",
+  "role"       : "Full Stack Developer",
+  "location"   : "Indonesia 🇮🇩",
+  "focus"      : ["Web Apps", "APIs", "Developer Experience"],
+  "philosophy" : "Clean code is not written by following rules. It is written by someone who cares.",
+  "status"     : "⚡ Open to collaboration"
+}
+```
 
 ---
 
-### 📊 Statistik GitHub
+## `~/stack` — Weapons of Choice
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
+
+### ⬛ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
+
+### ⬛ Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF41)
+
+### ⬛ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF41)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+
+### ⬛ Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
+
 </div>
+
+---
+
+## `~/stats` — System Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rozannouval&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozannouval&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rozannouval&theme=terminal&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&stroke=00FF4120)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `~/activity` — Contribution Matrix
+
+<div align="center">
+
+[![Rozan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rozannouval&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF4120&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `~/process` — How I Work
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   [01] UNDERSTAND   →   Read the problem, not the spec  │
+│   [02] ARCHITECT    →   Think before typing a line      │
+│   [03] BUILD        →   Write clean, testable code      │
+│   [04] REVIEW       →   Challenge every assumption      │
+│   [05] SHIP         →   Deliver value, not features     │
+│   [06] ITERATE      →   Repeat. Improve. Always.        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `~/connect` — Open Channels
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/rozannouval)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:rozannouval@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://rozannouval.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> "Any fool can write code that a computer can understand.
+   Good programmers write code that humans can understand."
+                                        — Martin Fowler
+```
 
 <br/>
 
-### 🐍 Aktivitas Kontribusi
+*Last synced with reality: automatically via GitHub Actions*
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
